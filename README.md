@@ -11,6 +11,14 @@
   </a>
 </p>
 
+## 👑 Sponsors
+
+Thanks to all our sponsors, I'm so glad to have you in backing up! 🙏 Donate 1€ or more on [Paypal](https://www.paypal.me/sersensini), [Github](https://github.com/sponsors/serenasensini) or [Patreon](https://www.patreon.com/theredcode_it) and send me [email](mailto:info@theredcode.it) with your photo and url.
+
+[![](https://blog.devandreacarratta.it/logo_header.png?)](https://blog.devandreacarratta.it/) 
+
+</div>
+
 ## 🔧 Skills
 
 ![GNU/Linux](https://img.shields.io/badge/-OS-Linux?style=flat-square&logo=linux&logoColor=black)
@@ -48,3 +56,5 @@
 </a>
 
 <img src="https://profile-counter.glitch.me/serenasensini/count.svg" alt="hit counter" align="center">
+
+
