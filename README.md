@@ -16,7 +16,7 @@
 Thanks to all our sponsors, I'm so glad to have you in backing up! 🙏 Donate 1€ or more on [Paypal](https://www.paypal.me/sersensini), [Github](https://github.com/sponsors/serenasensini) or [Patreon](https://www.patreon.com/theredcode_it) and send me [email](mailto:info@theredcode.it) with your photo and url.
 
 [![](https://blog.devandreacarratta.it/logo_header.png?)](https://blog.devandreacarratta.it/) 
-[![](https://www.breveglieri.it/img/home/avatar-512x512.png)](https://www.breveglieri.it) 
+[![](https://ucarecdn.com/6e4e9873-ad91-4aaf-99f9-a97d042e4262/bannercqv512x80.png)](https://www.breveglieri.it) 
 
 </div>
 
