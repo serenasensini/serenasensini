@@ -1,5 +1,5 @@
 <h1 align="center">Serena Sensini </h1>
-<h4 align="center">Computer science engineer</h4>
+<h4 align="center">Enterprise Architect @ Dedalus spa & Founder @ [TheRedCode.it](https://theredcode.it)</h4>
 
 <p align="center">
  <img width="200px" src="https://media.giphy.com/media/VRyiBxgvy9H3y/giphy.gif" align="center" alt="Stitch doing stuff" />
